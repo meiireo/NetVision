@@ -24,9 +24,9 @@
         cepat, aman, dan mudah.
     </p>
 
-    <a href="#" class="btn btn-primary btn-lg mt-3">
-        Get Started
-    </a>
+   <a href="{{ route('login') }}" class="btn btn-primary btn-lg mt-3">
+    Get Started
+</a>
 
 </div>
 
